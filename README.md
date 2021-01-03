@@ -1,10 +1,12 @@
 # PRA2-TCV
-integración, limpieza, validación y análisis 
+Practica asignatura Tipologia y Ciclo de vida de los datos-UOC
 ##  Datos
-Datos obtenidos de Kaggle  
-## Miembros del equipo
+Datos obtenidos de Kaggle ,fichero diabetes pima
+## Miembros del equipLICENSE
 Ver pestaña  Wiki
 ###  Licencia
-aun no
+ver fichero  LICENSE
 ###  Ficheros
-ver pestaña wiki
+diabetes.csv = origen.
+PRA2-TCV-jbarrancobe.R = codigo de practica en R.
+diabetes_salida.csv = fichero final.
